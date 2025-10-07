@@ -78,7 +78,7 @@ Following Material Design guidelines:
 ### Implementation
 
 ```dart
-// Utilities provided:
+ Utilities provided:
 - ResponsiveUtils.getDeviceType(context)
 - ResponsiveUtils.getGridColumns(context)
 - ResponsiveUtils.getResponsivePadding(context)
@@ -294,8 +294,8 @@ flutter test --coverage
 ### Minimum SDK
 
 ```gradle
-minSdkVersion 21  // Android 5.0 (Lollipop)
-targetSdkVersion 33 // Android 13
+minSdkVersion 21   Android 5.0 (Lollipop)
+targetSdkVersion 33  Android 13
 ```
 
 ### Permissions
