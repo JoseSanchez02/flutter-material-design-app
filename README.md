@@ -326,47 +326,6 @@ dev_dependencies:
 - **Hero Animations**: Smooth transitions
 - **Release Mode**: Minification and shrinking enabled
 
-## 🔍 Design Decisions
-
-### Why SQLite?
-
-- Reliable local persistence
-- No network dependency
-- Proven performance on Android
-- Easy migration path
-
-### Why Material Design 3?
-
-- Modern, cohesive design system
-- Built-in accessibility
-- Consistent with Android ecosystem
-- Excellent documentation
-
-### Why Repository Pattern?
-
-- Separation of concerns
-- Easy to test
-- Flexible data source swapping
-- Clean architecture
-
-### Responsive Strategy
-
-- Mobile-first approach
-- Progressive enhancement for tablets
-- Native Flutter widgets (no external packages)
-- Performance-conscious breakpoints
-
-## 🐛 Known Limitations
-
-1. **Image Picker**: Requires manual testing (not available in widget tests)
-2. **Theme Persistence**: Not saved to storage (resets on restart)
-3. **Image Storage**: Temporary paths (not permanent storage)
-4. **Localization**: English only (structure ready for i18n)
-
-## 📄 License
-
-This is a demonstration project for educational purposes.
-
 ## 👥 Author
 
 Flutter Developer + UI/UX Designer
@@ -450,16 +409,4 @@ This section explicitly maps project features to assignment requirements:
   - `test/responsive_test.dart` - 7 tests for layouts
   - `test/form_validation_test.dart` - 8 tests for validation
 
-### 9. Documentation ✓
-
-- **Requirement**: README with installation, design decisions, rubric mapping
-- **Implementation**:
-  - This comprehensive README.md
-  - Screenshots section
-  - Build instructions
-  - Architecture documentation
-  - Explicit rubric mapping (this section)
-
 ---
-
-**Project Status**: ✅ Complete - All requirements satisfied
