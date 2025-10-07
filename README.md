@@ -326,10 +326,6 @@ dev_dependencies:
 - **Hero Animations**: Smooth transitions
 - **Release Mode**: Minification and shrinking enabled
 
-## 👥 Author
-
-Flutter Developer + UI/UX Designer
-
 ## 🔗 Resources
 
 - [Flutter Documentation](https://docs.flutter.dev/)
